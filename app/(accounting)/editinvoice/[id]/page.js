@@ -5,7 +5,7 @@ import axios from "axios";
 import {getCustomersforcustomerdata, getProject} from ".//../../../services/userService";
 
 function Page(props) {
-ییییییییییییییییییییییی
+
     const [Project, setProject] = useState([]);
     const projectId = props.params.id;
 
